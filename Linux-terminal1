@@ -1,0 +1,17 @@
+shadowspy@shadowspy:~$ pwd
+/home/shadowspy
+shadowspy@shadowspy:~$ cd ..
+shadowspy@shadowspy:/home$ pwd
+/home
+shadowspy@shadowspy:/home$ cd ..
+shadowspy@shadowspy:/$ pwd
+/
+shadowspy@shadowspy:/$ ls
+bin    dev     home   lib64       media  proc  sbin  swapfile  usr
+boot   etc     lib    libx32      mnt    root  snap  sys       var
+cdrom  github  lib32  lost+found  opt    run   srv   tmp
+shadowspy@shadowspy:/$ cd home/
+shadowspy@shadowspy:/home$ ls
+shadowspy
+shadowspy@shadowspy:/home$ cd /home/shadowspy/
+shadowspy@shadowspy:~$ 
